@@ -1,0 +1,26 @@
+xxx----------------------------------------
+Pericenter Distance: 
+Apocenter Distance: 
+Orbit period: 
+Radius:
+
+Distance unit in Jupiter radius
+*************************************************************************************
+Mecury-------------------------------------
+Pericenter Distance: 0.3073471419587935 au
+Apocenter Distance: 0.46667041902087747 au
+Orbit period: 87.9 days 
+Radius: 2440 km
+
+Venus--------------------------------------
+Pericenter Distance: 0.7181872542953495 au
+Apocenter Distance: 0.7279315908508543 au 
+Orbit period: 225 days
+Radius: 0.00004045512126640247 km
+
+Earth--------------------------------------
+Pericenter Distance: 0.9826698690360708 au
+Apocenter Distance: 1.0167230542616976 au
+Orbit period: 365 days
+Radius:0.000042587504558534396 au
+
